@@ -27,3 +27,7 @@ To run the app, clone the repository and run app.R file.
 This shiny dashboard was deployed to shinyapps.io, you can check link below:
 
 https://anova24.shinyapps.io/BiodiversityDashboard/
+
+
+## Author
+ - [Jakub Augustynek](https://github.com/anova97)

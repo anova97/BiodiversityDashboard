@@ -1,0 +1,936 @@
+{
+  "input": {
+    "AT-kingdomGroup": [
+      "Animalia",
+      "Plantae",
+      "Fungi"
+    ],
+    "AT-radio": "1",
+    "AT-reset": 0,
+    "AT-scientific": "Abromias rubrirena",
+    "AT-vernacular": "14-spot Ladybird",
+    "KE-kingdomGroup": [
+      "Animalia",
+      "Plantae"
+    ],
+    "KE-radio": "1",
+    "KE-reset": 0,
+    "KE-scientific": "Acryllium vulturinum",
+    "KE-vernacular": "Abyssinian Scimitarbill",
+    "NP-kingdomGroup": [
+      "Animalia",
+      "Plantae"
+    ],
+    "NP-radio": "1",
+    "NP-reset": 0,
+    "NP-scientific": "Acridotheres fuscus",
+    "NP-vernacular": "Alexandrine Parakeet",
+    "PL-kingdomGroup": "Animalia",
+    "PL-Map_bounds": {
+      "north": 57.16007826738,
+      "east": 34.9365234375,
+      "south": 46.3469276105568,
+      "west": 3.9990234375
+    },
+    "PL-Map_center": {
+      "lng": 19.4749981,
+      "lat": 52.068166394
+    },
+    "PL-Map_zoom": 5,
+    "PL-radio": "1",
+    "PL-reset": 0,
+    "PL-scientific": "Dendrocopos leucotos",
+    "PL-timeline_data": {
+      "id": [
+        "98202332@OBS",
+        "97888120@OBS",
+        "97887168@OBS",
+        "97886881@OBS",
+        "97880935@OBS",
+        "97879684@OBS",
+        "97042687@OBS",
+        "96967350@OBS",
+        "95580949@OBS"
+      ],
+      "occurrenceID": [
+        "https://observation.org/observation/98202332",
+        "https://observation.org/observation/97888120",
+        "https://observation.org/observation/97887168",
+        "https://observation.org/observation/97886881",
+        "https://observation.org/observation/97880935",
+        "https://observation.org/observation/97879684",
+        "https://observation.org/observation/97042687",
+        "https://observation.org/observation/96967350",
+        "https://observation.org/observation/95580949"
+      ],
+      "catalogNumber": [
+        "OBS.98202332",
+        "OBS.97888120",
+        "OBS.97887168",
+        "OBS.97886881",
+        "OBS.97880935",
+        "OBS.97879684",
+        "OBS.97042687",
+        "OBS.96967350",
+        "OBS.95580949"
+      ],
+      "basisOfRecord": [
+        "HumanObservation",
+        "HumanObservation",
+        "HumanObservation",
+        "HumanObservation",
+        "HumanObservation",
+        "HumanObservation",
+        "HumanObservation",
+        "HumanObservation",
+        "HumanObservation"
+      ],
+      "collectionCode": [
+        "Observations",
+        "Observations",
+        "Observations",
+        "Observations",
+        "Observations",
+        "Observations",
+        "Observations",
+        "Observations",
+        "Observations"
+      ],
+      "scientificName": [
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos",
+        "Dendrocopos leucotos"
+      ],
+      "taxonRank": [
+        "species",
+        "species",
+        "species",
+        "species",
+        "species",
+        "species",
+        "species",
+        "species",
+        "species"
+      ],
+      "kingdom": [
+        "Animalia",
+        "Animalia",
+        "Animalia",
+        "Animalia",
+        "Animalia",
+        "Animalia",
+        "Animalia",
+        "Animalia",
+        "Animalia"
+      ],
+      "family": [
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE",
+        "WOODPECKERS_PICIDAE"
+      ],
+      "higherClassification": [
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE",
+        "Animalia|WOODPECKERS_PICIDAE"
+      ],
+      "vernacularName": [
+        "White-backed Woodpecker",
+        "White-backed Woodpecker",
+        "White-backed Woodpecker",
+        "White-backed Woodpecker",
+        "White-backed Woodpecker",
+        "White-backed Woodpecker",
+        "White-backed Woodpecker",
+        "White-backed Woodpecker",
+        "White-backed Woodpecker"
+      ],
+      "individualCount": [
+        "1",
+        "3",
+        "2",
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "lifeStage": [
+        "adult",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "sex": [
+        "undetermined",
+        "undetermined",
+        "undetermined",
+        "undetermined",
+        "undetermined",
+        "undetermined",
+        "undetermined",
+        "undetermined",
+        "undetermined"
+      ],
+      "longitudeDecimal": [
+        "23.8913798332",
+        "23.8240537047",
+        "23.842279315",
+        "23.8240537047",
+        "23.8240537047",
+        "23.842279315",
+        "23.8935470581",
+        "23.867297224553",
+        "23.8478851318"
+      ],
+      "latitudeDecimal": [
+        "52.7317116345",
+        "52.7990243739",
+        "52.718720921",
+        "52.7990243739",
+        "52.7990243739",
+        "52.718720921",
+        "52.7011463558",
+        "52.760956852",
+        "52.7009383112"
+      ],
+      "geodeticDatum": [
+        "WGS84",
+        "WGS84",
+        "WGS84",
+        "WGS84",
+        "WGS84",
+        "WGS84",
+        "WGS84",
+        "WGS84",
+        "WGS84"
+      ],
+      "coordinateUncertaintyInMeters": [
+        "1000",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "999",
+        "999"
+      ],
+      "continent": [
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe"
+      ],
+      "country": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "countryCode": [
+        "PL",
+        "PL",
+        "PL",
+        "PL",
+        "PL",
+        "PL",
+        "PL",
+        "PL",
+        "PL"
+      ],
+      "locality": [
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża NP",
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża NP",
+        "Poland - Białowieża NP",
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża",
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża"
+      ],
+      "eventDate": [
+        "2008-05-05",
+        "2015-02-04",
+        "2015-02-01",
+        "2015-02-04",
+        "2015-02-04",
+        "2015-02-01",
+        "2001-05-04",
+        "2010-02-01",
+        "2009-07-30"
+      ],
+      "references": [
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.98202332",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.97888120",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.97887168",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.97886881",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.97880935",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.97879684",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.97042687",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.96967350",
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.95580949"
+      ],
+      "rightsHolder": [
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie",
+        "Stichting Natuurinformatie"
+      ],
+      "license": [
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0",
+        "CC BY-NC 4.0"
+      ],
+      "modified": [
+        "2015-02-22",
+        "2015-02-10",
+        "2015-02-10",
+        "2015-02-10",
+        "2015-02-10",
+        "2015-12-11",
+        "2018-05-11",
+        "2015-01-07",
+        "2017-08-11"
+      ],
+      "start": [
+        "2008-05-04T22:00:00.000Z",
+        "2015-02-03T23:00:00.000Z",
+        "2015-01-31T23:00:00.000Z",
+        "2015-02-03T23:00:00.000Z",
+        "2015-02-03T23:00:00.000Z",
+        "2015-01-31T23:00:00.000Z",
+        "2001-05-03T22:00:00.000Z",
+        "2010-01-31T23:00:00.000Z",
+        "2009-07-29T22:00:00.000Z"
+      ],
+      "content": [
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża NP",
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża NP",
+        "Poland - Białowieża NP",
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża",
+        "Poland - Bialowieski Park Narodowy",
+        "Poland - Białowieża"
+      ]
+    },
+    "PL-timeline_ids": [
+      "98202332@OBS",
+      "97888120@OBS",
+      "97887168@OBS",
+      "97886881@OBS",
+      "97880935@OBS",
+      "97879684@OBS",
+      "97042687@OBS",
+      "96967350@OBS",
+      "95580949@OBS"
+    ],
+    "PL-timeline_selected": null,
+    "PL-timeline_visible": [
+      "97887168@OBS",
+      "96967350@OBS",
+      "95580949@OBS",
+      "98202332@OBS",
+      "97042687@OBS",
+      "97879684@OBS",
+      "97888120@OBS",
+      "97886881@OBS",
+      "97880935@OBS"
+    ],
+    "PL-timeline_window": [
+      "1999-11-28T04:24:58.265Z",
+      "2017-06-17T22:51:52.138Z"
+    ],
+    "PL-vernacular": "Alpine Accentor"
+  },
+  "output": {
+    "PL-Map": {
+      "x": {
+        "options": {
+          "crs": {
+            "crsClass": "L.CRS.EPSG3857",
+            "code": null,
+            "proj4def": null,
+            "projectedBounds": null,
+            "options": {
+
+            }
+          }
+        },
+        "setView": [
+          [
+            52.068166394,
+            19.4749981
+          ],
+          5,
+          [
+
+          ]
+        ],
+        "calls": [
+          {
+            "method": "addTiles",
+            "args": [
+              "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+              null,
+              null,
+              {
+                "minZoom": 0,
+                "maxZoom": 18,
+                "tileSize": 256,
+                "subdomains": "abc",
+                "errorTileUrl": "",
+                "tms": false,
+                "noWrap": false,
+                "zoomOffset": 0,
+                "zoomReverse": false,
+                "opacity": 1,
+                "zIndex": 1,
+                "detectRetina": false,
+                "attribution": "&copy; <a href=\"https://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"
+              }
+            ]
+          },
+          {
+            "method": "addAwesomeMarkers",
+            "args": [
+              [
+                52.7317116345,
+                52.7990243739,
+                52.718720921,
+                52.7990243739,
+                52.7990243739,
+                52.718720921,
+                52.7011463558,
+                52.760956852,
+                52.7009383112
+              ],
+              [
+                23.8913798332,
+                23.8240537047,
+                23.842279315,
+                23.8240537047,
+                23.8240537047,
+                23.842279315,
+                23.8935470581,
+                23.867297224553,
+                23.8478851318
+              ],
+              {
+                "icon": "paw",
+                "markerColor": "orange",
+                "iconColor": "black",
+                "spin": false,
+                "squareMarker": false,
+                "iconRotate": 0,
+                "font": "monospace",
+                "prefix": "fa"
+              },
+              [
+                "98202332@OBS",
+                "97888120@OBS",
+                "97887168@OBS",
+                "97886881@OBS",
+                "97880935@OBS",
+                "97879684@OBS",
+                "97042687@OBS",
+                "96967350@OBS",
+                "95580949@OBS"
+              ],
+              null,
+              {
+                "interactive": true,
+                "draggable": false,
+                "keyboard": true,
+                "title": "",
+                "alt": "",
+                "zIndexOffset": 0,
+                "opacity": 1,
+                "riseOnHover": false,
+                "riseOffset": 250
+              },
+              [
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/98202332 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/97888120 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/97887168 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/97886881 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/97880935 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/97879684 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/97042687 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/96967350 ' target='_blank'> More info:<\/a>",
+                "<br> <b> Scientific name: <\/b> Dendrocopos leucotos <br> <b> Vernacular name: <\/b> White-backed Woodpecker <br> <b> Family: <\/b> WOODPECKERS_PICIDAE <br> <a href=' https://observation.org/observation/95580949 ' target='_blank'> More info:<\/a>"
+              ],
+              null,
+              null,
+              null,
+              [
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos",
+                "Dendrocopos leucotos"
+              ],
+              {
+                "interactive": false,
+                "permanent": false,
+                "direction": "auto",
+                "opacity": 1,
+                "offset": [
+                  0,
+                  0
+                ],
+                "textsize": "10px",
+                "textOnly": false,
+                "className": "",
+                "sticky": true
+              },
+              null
+            ]
+          }
+        ],
+        "limits": {
+          "lat": [
+            52.7009383112,
+            52.7990243739
+          ],
+          "lng": [
+            23.8240537047,
+            23.8935470581
+          ]
+        }
+      },
+      "evals": [
+
+      ],
+      "jsHooks": [
+
+      ],
+      "deps": [
+        {
+          "name": "leaflet-awesomemarkers",
+          "version": "2.0.3",
+          "src": {
+            "href": "leaflet-awesomemarkers-2.0.3"
+          },
+          "meta": null,
+          "script": "leaflet.awesome-markers.min.js",
+          "stylesheet": "leaflet.awesome-markers.css",
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "fontawesome",
+          "version": "4.7.0",
+          "src": {
+            "href": "fontawesome-4.7.0"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": "font-awesome.min.css",
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        }
+      ]
+    },
+    "PL-timeline": {
+      "x": {
+        "items": [
+          {
+            "id": "98202332@OBS",
+            "occurrenceID": "https://observation.org/observation/98202332",
+            "catalogNumber": "OBS.98202332",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "1",
+            "lifeStage": "adult",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.8913798332",
+            "latitudeDecimal": "52.7317116345",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "1000",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Bialowieski Park Narodowy",
+            "eventDate": "2008-05-05",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.98202332",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2015-02-22",
+            "start": "2008-05-05",
+            "content": "Poland - Bialowieski Park Narodowy"
+          },
+          {
+            "id": "97888120@OBS",
+            "occurrenceID": "https://observation.org/observation/97888120",
+            "catalogNumber": "OBS.97888120",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "3",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.8240537047",
+            "latitudeDecimal": "52.7990243739",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "100",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Białowieża NP",
+            "eventDate": "2015-02-04",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.97888120",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2015-02-10",
+            "start": "2015-02-04",
+            "content": "Poland - Białowieża NP"
+          },
+          {
+            "id": "97887168@OBS",
+            "occurrenceID": "https://observation.org/observation/97887168",
+            "catalogNumber": "OBS.97887168",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "2",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.842279315",
+            "latitudeDecimal": "52.718720921",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "100",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Bialowieski Park Narodowy",
+            "eventDate": "2015-02-01",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.97887168",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2015-02-10",
+            "start": "2015-02-01",
+            "content": "Poland - Bialowieski Park Narodowy"
+          },
+          {
+            "id": "97886881@OBS",
+            "occurrenceID": "https://observation.org/observation/97886881",
+            "catalogNumber": "OBS.97886881",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "3",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.8240537047",
+            "latitudeDecimal": "52.7990243739",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "100",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Białowieża NP",
+            "eventDate": "2015-02-04",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.97886881",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2015-02-10",
+            "start": "2015-02-04",
+            "content": "Poland - Białowieża NP"
+          },
+          {
+            "id": "97880935@OBS",
+            "occurrenceID": "https://observation.org/observation/97880935",
+            "catalogNumber": "OBS.97880935",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "3",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.8240537047",
+            "latitudeDecimal": "52.7990243739",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "100",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Białowieża NP",
+            "eventDate": "2015-02-04",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.97880935",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2015-02-10",
+            "start": "2015-02-04",
+            "content": "Poland - Białowieża NP"
+          },
+          {
+            "id": "97879684@OBS",
+            "occurrenceID": "https://observation.org/observation/97879684",
+            "catalogNumber": "OBS.97879684",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "2",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.842279315",
+            "latitudeDecimal": "52.718720921",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "100",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Bialowieski Park Narodowy",
+            "eventDate": "2015-02-01",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.97879684",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2015-12-11",
+            "start": "2015-02-01",
+            "content": "Poland - Bialowieski Park Narodowy"
+          },
+          {
+            "id": "97042687@OBS",
+            "occurrenceID": "https://observation.org/observation/97042687",
+            "catalogNumber": "OBS.97042687",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "1",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.8935470581",
+            "latitudeDecimal": "52.7011463558",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "100",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Białowieża",
+            "eventDate": "2001-05-04",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.97042687",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2018-05-11",
+            "start": "2001-05-04",
+            "content": "Poland - Białowieża"
+          },
+          {
+            "id": "96967350@OBS",
+            "occurrenceID": "https://observation.org/observation/96967350",
+            "catalogNumber": "OBS.96967350",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "1",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.867297224553",
+            "latitudeDecimal": "52.760956852",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "999",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Bialowieski Park Narodowy",
+            "eventDate": "2010-02-01",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.96967350",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2015-01-07",
+            "start": "2010-02-01",
+            "content": "Poland - Bialowieski Park Narodowy"
+          },
+          {
+            "id": "95580949@OBS",
+            "occurrenceID": "https://observation.org/observation/95580949",
+            "catalogNumber": "OBS.95580949",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Dendrocopos leucotos",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "WOODPECKERS_PICIDAE",
+            "higherClassification": "Animalia|WOODPECKERS_PICIDAE",
+            "vernacularName": "White-backed Woodpecker",
+            "individualCount": "1",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.8478851318",
+            "latitudeDecimal": "52.7009383112",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "999",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Białowieża",
+            "eventDate": "2009-07-30",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.95580949",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2017-08-11",
+            "start": "2009-07-30",
+            "content": "Poland - Białowieża"
+          }
+        ],
+        "groups": null,
+        "showZoom": true,
+        "zoomFactor": 0.5,
+        "fit": true,
+        "options": {
+          "stack": false,
+          "stackSubgroups": true,
+          "orientation": "top",
+          "verticalScroll": true,
+          "minHeight": 750,
+          "maxHeight": 750
+        },
+        "height": null,
+        "timezone": null,
+        "api": [
+
+        ]
+      },
+      "evals": [
+
+      ],
+      "jsHooks": [
+
+      ],
+      "deps": [
+        {
+          "name": "jquery",
+          "version": "1.11.3",
+          "src": {
+            "href": "jquery-1.11.3"
+          },
+          "meta": null,
+          "script": "jquery.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "package": null,
+          "all_files": true
+        },
+        {
+          "name": "bootstrap",
+          "version": "3.3.5",
+          "src": {
+            "href": "bootstrap-3.3.5"
+          },
+          "meta": {
+            "viewport": "width=device-width, initial-scale=1"
+          },
+          "script": [
+            "js/bootstrap.min.js",
+            "shim/html5shiv.min.js",
+            "shim/respond.min.js"
+          ],
+          "stylesheet": "css/bootstrap.min.css",
+          "head": "<style>h1 {font-size: 34px;}\n       h1.title {font-size: 38px;}\n       h2 {font-size: 30px;}\n       h3 {font-size: 24px;}\n       h4 {font-size: 18px;}\n       h5 {font-size: 16px;}\n       h6 {font-size: 12px;}\n       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}\n       pre:not([class]) { background-color: white }<\/style>",
+          "attachment": null,
+          "package": null,
+          "all_files": true
+        }
+      ]
+    }
+  },
+  "export": {
+
+  }
+}

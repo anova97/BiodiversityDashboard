@@ -1,0 +1,12 @@
+name: BiodiversityDashboard
+title: BiodiversityDashboard
+username:
+account: anova24
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6092467
+bundleId: 5801474
+url: https://anova24.shinyapps.io/BiodiversityDashboard/
+when: 1650013009.08341
+asMultiple: FALSE
+asStatic: FALSE

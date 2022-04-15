@@ -1,0 +1,38 @@
+/* Get a fancy font from Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+
+#title {
+  background-color: #8BC34A;
+  color: white; 
+}
+
+#title h1{
+  font-family: 'Racing Sans One', cursive;
+  margin-right: 10px
+}
+
+#col1 h4{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+}
+
+#col2 {
+  background-color: #defade;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  background-color: #defade;
+}
+
+#tml {
+  background-color: white;
+}
+/* Make text visible on inputs */
+.shiny-input-container {
+  color: #474747;
+}

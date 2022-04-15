@@ -1,0 +1,12 @@
+library(shiny)
+library(shinyjs)
+library(leaflet)
+library(timevis)
+library(logging)
+library(shinyWidgets)
+library(shinyalert)
+library(readr)
+library(testthat)
+library(shinytest)
+
+loginfo(msg = "libraries successfully loaded")

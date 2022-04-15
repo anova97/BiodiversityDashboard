@@ -1,0 +1,390 @@
+{
+  "input": {
+    "AT-kingdomGroup": [
+      "Animalia",
+      "Plantae",
+      "Fungi"
+    ],
+    "AT-radio": "1",
+    "AT-reset": 0,
+    "AT-scientific": "Abromias rubrirena",
+    "AT-vernacular": "14-spot Ladybird",
+    "KE-kingdomGroup": [
+      "Animalia",
+      "Plantae"
+    ],
+    "KE-radio": "1",
+    "KE-reset": 0,
+    "KE-scientific": "Acryllium vulturinum",
+    "KE-vernacular": "Abyssinian Scimitarbill",
+    "NP-kingdomGroup": [
+      "Animalia",
+      "Plantae"
+    ],
+    "NP-radio": "1",
+    "NP-reset": 0,
+    "NP-scientific": "Acridotheres fuscus",
+    "NP-vernacular": "Alexandrine Parakeet",
+    "PL-kingdomGroup": [
+      "Animalia",
+      "Plantae",
+      "Fungi"
+    ],
+    "PL-Map_bounds": {
+      "north": 57.16007826738,
+      "east": 34.9365234375,
+      "south": 46.3469276105568,
+      "west": 3.9990234375
+    },
+    "PL-Map_center": {
+      "lng": 19.4749981,
+      "lat": 52.068166394
+    },
+    "PL-Map_zoom": 5,
+    "PL-radio": "1",
+    "PL-reset": 0,
+    "PL-scientific": "Acrocephalus arundinaceus",
+    "PL-timeline_data": {
+      "id": [
+        "96451993@OBS"
+      ],
+      "occurrenceID": [
+        "https://observation.org/observation/96451993"
+      ],
+      "catalogNumber": [
+        "OBS.96451993"
+      ],
+      "basisOfRecord": [
+        "HumanObservation"
+      ],
+      "collectionCode": [
+        "Observations"
+      ],
+      "scientificName": [
+        "Acrocephalus arundinaceus"
+      ],
+      "taxonRank": [
+        "species"
+      ],
+      "kingdom": [
+        "Animalia"
+      ],
+      "family": [
+        "Acrocephalidae"
+      ],
+      "higherClassification": [
+        "Animalia|Acrocephalidae"
+      ],
+      "vernacularName": [
+        "Great Reed Warbler"
+      ],
+      "individualCount": [
+        "1"
+      ],
+      "lifeStage": [
+        "unknown"
+      ],
+      "sex": [
+        "undetermined"
+      ],
+      "longitudeDecimal": [
+        "23.2343110442"
+      ],
+      "latitudeDecimal": [
+        "53.1093852594"
+      ],
+      "geodeticDatum": [
+        "WGS84"
+      ],
+      "coordinateUncertaintyInMeters": [
+        "100"
+      ],
+      "continent": [
+        "Europe"
+      ],
+      "country": [
+        "Poland"
+      ],
+      "countryCode": [
+        "PL"
+      ],
+      "locality": [
+        "Poland - Dojlidy Fish Ponds"
+      ],
+      "eventDate": [
+        "2003-06-05"
+      ],
+      "references": [
+        "https://data.biodiversitydata.nl/obsint/observation/OBS.96451993"
+      ],
+      "rightsHolder": [
+        "Stichting Natuurinformatie"
+      ],
+      "license": [
+        "CC BY-NC 4.0"
+      ],
+      "modified": [
+        "2017-08-12"
+      ],
+      "start": [
+        "2003-06-04T22:00:00.000Z"
+      ],
+      "content": [
+        "Poland - Dojlidy Fish Ponds"
+      ]
+    },
+    "PL-timeline_ids": "96451993@OBS",
+    "PL-timeline_selected": null,
+    "PL-timeline_visible": null,
+    "PL-timeline_window": [
+      "2003-06-01T22:00:00.000Z",
+      "2003-06-07T22:00:00.000Z"
+    ],
+    "PL-vernacular": "Alpine Accentor"
+  },
+  "output": {
+    "PL-Map": {
+      "x": {
+        "options": {
+          "crs": {
+            "crsClass": "L.CRS.EPSG3857",
+            "code": null,
+            "proj4def": null,
+            "projectedBounds": null,
+            "options": {
+
+            }
+          }
+        },
+        "setView": [
+          [
+            52.068166394,
+            19.4749981
+          ],
+          5,
+          [
+
+          ]
+        ],
+        "calls": [
+          {
+            "method": "addTiles",
+            "args": [
+              "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+              null,
+              null,
+              {
+                "minZoom": 0,
+                "maxZoom": 18,
+                "tileSize": 256,
+                "subdomains": "abc",
+                "errorTileUrl": "",
+                "tms": false,
+                "noWrap": false,
+                "zoomOffset": 0,
+                "zoomReverse": false,
+                "opacity": 1,
+                "zIndex": 1,
+                "detectRetina": false,
+                "attribution": "&copy; <a href=\"https://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"
+              }
+            ]
+          },
+          {
+            "method": "addAwesomeMarkers",
+            "args": [
+              53.1093852594,
+              23.2343110442,
+              {
+                "icon": "paw",
+                "markerColor": "orange",
+                "iconColor": "black",
+                "spin": false,
+                "squareMarker": false,
+                "iconRotate": 0,
+                "font": "monospace",
+                "prefix": "fa"
+              },
+              "96451993@OBS",
+              null,
+              {
+                "interactive": true,
+                "draggable": false,
+                "keyboard": true,
+                "title": "",
+                "alt": "",
+                "zIndexOffset": 0,
+                "opacity": 1,
+                "riseOnHover": false,
+                "riseOffset": 250
+              },
+              "<br> <b> Scientific name: <\/b> Acrocephalus arundinaceus <br> <b> Vernacular name: <\/b> Great Reed Warbler <br> <b> Family: <\/b> Acrocephalidae <br> <a href=' https://observation.org/observation/96451993 ' target='_blank'> More info:<\/a>",
+              null,
+              null,
+              null,
+              "Acrocephalus arundinaceus",
+              {
+                "interactive": false,
+                "permanent": false,
+                "direction": "auto",
+                "opacity": 1,
+                "offset": [
+                  0,
+                  0
+                ],
+                "textsize": "10px",
+                "textOnly": false,
+                "className": "",
+                "sticky": true
+              },
+              null
+            ]
+          }
+        ],
+        "limits": {
+          "lat": [
+            53.1093852594,
+            53.1093852594
+          ],
+          "lng": [
+            23.2343110442,
+            23.2343110442
+          ]
+        }
+      },
+      "evals": [
+
+      ],
+      "jsHooks": [
+
+      ],
+      "deps": [
+        {
+          "name": "leaflet-awesomemarkers",
+          "version": "2.0.3",
+          "src": {
+            "href": "leaflet-awesomemarkers-2.0.3"
+          },
+          "meta": null,
+          "script": "leaflet.awesome-markers.min.js",
+          "stylesheet": "leaflet.awesome-markers.css",
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        },
+        {
+          "name": "fontawesome",
+          "version": "4.7.0",
+          "src": {
+            "href": "fontawesome-4.7.0"
+          },
+          "meta": null,
+          "script": null,
+          "stylesheet": "font-awesome.min.css",
+          "head": null,
+          "attachment": null,
+          "all_files": true
+        }
+      ]
+    },
+    "PL-timeline": {
+      "x": {
+        "items": [
+          {
+            "id": "96451993@OBS",
+            "occurrenceID": "https://observation.org/observation/96451993",
+            "catalogNumber": "OBS.96451993",
+            "basisOfRecord": "HumanObservation",
+            "collectionCode": "Observations",
+            "scientificName": "Acrocephalus arundinaceus",
+            "taxonRank": "species",
+            "kingdom": "Animalia",
+            "family": "Acrocephalidae",
+            "higherClassification": "Animalia|Acrocephalidae",
+            "vernacularName": "Great Reed Warbler",
+            "individualCount": "1",
+            "lifeStage": "unknown",
+            "sex": "undetermined",
+            "longitudeDecimal": "23.2343110442",
+            "latitudeDecimal": "53.1093852594",
+            "geodeticDatum": "WGS84",
+            "coordinateUncertaintyInMeters": "100",
+            "continent": "Europe",
+            "country": "Poland",
+            "countryCode": "PL",
+            "locality": "Poland - Dojlidy Fish Ponds",
+            "eventDate": "2003-06-05",
+            "references": "https://data.biodiversitydata.nl/obsint/observation/OBS.96451993",
+            "rightsHolder": "Stichting Natuurinformatie",
+            "license": "CC BY-NC 4.0",
+            "modified": "2017-08-12",
+            "start": "2003-06-05",
+            "content": "Poland - Dojlidy Fish Ponds"
+          }
+        ],
+        "groups": null,
+        "showZoom": true,
+        "zoomFactor": 0.5,
+        "fit": true,
+        "options": {
+          "stack": false,
+          "stackSubgroups": true,
+          "orientation": "top",
+          "verticalScroll": true,
+          "minHeight": 750,
+          "maxHeight": 750
+        },
+        "height": null,
+        "timezone": null,
+        "api": [
+
+        ]
+      },
+      "evals": [
+
+      ],
+      "jsHooks": [
+
+      ],
+      "deps": [
+        {
+          "name": "jquery",
+          "version": "1.11.3",
+          "src": {
+            "href": "jquery-1.11.3"
+          },
+          "meta": null,
+          "script": "jquery.min.js",
+          "stylesheet": null,
+          "head": null,
+          "attachment": null,
+          "package": null,
+          "all_files": true
+        },
+        {
+          "name": "bootstrap",
+          "version": "3.3.5",
+          "src": {
+            "href": "bootstrap-3.3.5"
+          },
+          "meta": {
+            "viewport": "width=device-width, initial-scale=1"
+          },
+          "script": [
+            "js/bootstrap.min.js",
+            "shim/html5shiv.min.js",
+            "shim/respond.min.js"
+          ],
+          "stylesheet": "css/bootstrap.min.css",
+          "head": "<style>h1 {font-size: 34px;}\n       h1.title {font-size: 38px;}\n       h2 {font-size: 30px;}\n       h3 {font-size: 24px;}\n       h4 {font-size: 18px;}\n       h5 {font-size: 16px;}\n       h6 {font-size: 12px;}\n       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}\n       pre:not([class]) { background-color: white }<\/style>",
+          "attachment": null,
+          "package": null,
+          "all_files": true
+        }
+      ]
+    }
+  },
+  "export": {
+
+  }
+}
